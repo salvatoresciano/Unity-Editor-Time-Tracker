@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Progetti Unity\\UnityEditorTimeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B75B511-BEC7-96C9-6326-3258E19E290C}|Assembly-CSharp-Editor.csproj|d:\\progetti unity\\unityeditortimemanagement\\assets\\editor\\timemanagereditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B75B511-BEC7-96C9-6326-3258E19E290C}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\timemanagereditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimeManagerEditor.cs",
+              "DocumentMoniker": "D:\\Progetti Unity\\UnityEditorTimeManagement\\Assets\\Editor\\TimeManagerEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\TimeManagerEditor.cs",
+              "ToolTip": "D:\\Progetti Unity\\UnityEditorTimeManagement\\Assets\\Editor\\TimeManagerEditor.cs",
+              "RelativeToolTip": "Assets\\Editor\\TimeManagerEditor.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAIAwwD4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:11:23.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

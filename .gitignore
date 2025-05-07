@@ -1,0 +1,15 @@
+.htaccess
+css.php
+rpc/
+/Build
+/Library
+/Temp
+/Assets/Firebase/Plugins/*
+sites/site*/admin/
+sites/site*/private/
+sites/site*/public/admin/
+sites/site*/public/setup/
+sites/site*/public/theme/
+textpattern/
+HISTORY.txt
+README.txt
